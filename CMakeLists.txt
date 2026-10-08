@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(lob LANGUAGES CXX)
+project(LOBMatchingEngine LANGUAGES CXX)
 
 # Require C++23
 set(CMAKE_CXX_STANDARD 23)

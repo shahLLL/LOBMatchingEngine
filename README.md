@@ -1,4 +1,4 @@
-# 📊 CPP-LOB
+# 📊 LOBMatchingEngine
 
 <div align="center">
   <img src="images/lob_background.jpg" alt="Background" width="75%"/>
